@@ -1,0 +1,24 @@
+#fruits{
+  font-size: 25px;
+  color: green;
+  margin-left: 5%;
+  margin-top: 2%;
+}
+
+li{
+  font-size: 20px;
+  color: grey;
+}
+
+li:hover{
+  color: goldenrod;
+  cursor: pointer;
+}
+
+.imgCart{
+  fill: green;
+}
+
+.cart{
+  margin: -25px;
+}
